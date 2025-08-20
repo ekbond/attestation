@@ -1,10 +1,13 @@
+
 import java.util.ArrayList;
 import java.util.Scanner;
+
+//test for 
 
 public class App {
     public static void main(String[] args) {
         
-        // Информация о Покупателе и продуктах будет вводится с клавиатуры        
+        // Информация о Покупателе и продуктах будет вводится с клавиатуры       
         Scanner scanner = new Scanner(System.in, "cp866");
 
         // Списки для хранения покупателей и их денег, продуктов и их цена
